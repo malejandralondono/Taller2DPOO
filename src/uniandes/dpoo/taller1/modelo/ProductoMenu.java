@@ -5,9 +5,9 @@ public class ProductoMenu implements Producto{
 	
 	//Atributos
 	
-	public String nombre;
+	private String nombre;
 	
-	public int precioBase;
+	private int precioBase;
 	
 	//Constructor
 	
